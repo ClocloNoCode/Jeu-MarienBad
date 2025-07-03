@@ -9,4 +9,4 @@ Trois degrés de difficulté pour la version Ordinateur :
 
 🟢    Facile   ->   l'ordinateur joue aléatoirement  
 🟠     Moyen   ->   l'ordinateur joue le coup gagnant quand il le peut  
-🔴   Difficile ->   le robot fait toujours le coup qui mène à la victoire  
+🔴   Difficile ->   l'ordinateur fait toujours le coup qui mène à la victoire  
